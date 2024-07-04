@@ -37,7 +37,7 @@ pip install pygame
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/trivia-quiz-game.git
+git clone https://github.com/kamzysert3/trivia-quiz-game.git
 ```
 
 Navigate to the project directory:
